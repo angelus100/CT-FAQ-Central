@@ -1,0 +1,177 @@
+#areasTitle {
+	height:20px;
+	width:495px;
+	margin:0px 0px 10px 30px;
+	background-image:url('../images/areasofstudy.jpg');
+	background-repeat:no-repeat;
+	font-size:11px;
+	font-weight:normal;
+	background-position:0 -10px;
+	padding:10px 0px 0px 0px;
+}
+#areasTitle div {
+	float:right;
+	font-size:11px;
+	font-weight:normal;
+	margin:0px;
+	padding:0px;
+}
+#areasContainer {
+	margin:6px 0px 5px 30px;
+	width:495px;
+	height:70px;
+}
+#areasContainer a {
+	color:#000;
+	line-height:19px;
+	text-align:center;
+}
+#areasContainer a:hover {
+	color:#06C;
+}
+#areasContainer2, #areasContainerHeading {
+	margin:1px 0px 5px 30px;
+	width:505px;
+	height:53px;
+	padding:0px;
+	color:#000;
+}
+#areasContainerHeading {
+	margin:0px 0px 3px 30px;
+}
+#areasContainer2 a, #areasContainerHeading a {
+	color:#000;
+}
+#areasContainer2 a div {
+	font-size:12px;
+	font-weight:bold;
+	padding:12px 6px;
+	height:auto;
+	width:auto;
+	margin:5px 0px 5px 0px;
+}
+#areasContainerHeading a div {
+	font-size:16px;
+	font-weight:normal;
+	padding:12px 1px;
+	height:auto;
+	width:auto;
+	margin:0px 5px 5px 5px;
+	border:1px solid #CCC;
+}
+#areasContainerHeading a div:hover {
+	background-color:#f4f4f4;
+	color:#20454e;
+}
+#areasContainer2 a div:hover {
+	color:#40656e;
+}
+#areasContainer2 a .activeLink, #areasContainerHeading a .activeLink {
+	background-color:#d4effc;
+	color:#000;
+}
+#areasContainer2 a .activeLink:hover, #areasContainerHeading a .activeLink:hover {
+	background-color:#d4effc;
+	color:#000;
+}
+#areasContainer2 .areasList, #areasContainerHeading .areasList {
+	padding:2px 0px 0px 0px;
+	margin:0px;
+	float:left;
+	height:auto;
+}
+#areasContainer2 .areasList a, #areasContainerHeading .areasList a {
+	cursor:pointer;
+	display:block;
+	text-align:center;
+}
+#areasContainer2 .areasList .areas2liner div {
+	width:133px;
+	height:42px;
+	line-height:1.9;
+	margin-top:5px;
+	padding-top:0px;
+}
+#areasContainer2 .areasList .areas2liner .activeLink {
+	width:133px;
+	height:42px;
+	line-height:1.9;
+	margin-top:5px;
+	padding-top:0px;
+}
+#clickHeading {
+	color:#30555E !important;
+	line-height:normal !important;
+	margin:20px 0 9px 30px !important;
+	font-weight:bold !important;
+}
+#areasContainer2 #areas1 {
+	padding-left:0px;
+	margin:0px 0px 0px 0px;
+	width:195px;
+}
+#areasContainer2 #areas2 {
+	margin:0px 0px 0px 0px;
+	width:135px;
+}
+#areasContainer2 #areas3 {
+	padding-right:0px;
+	padding-left:0px;
+	margin:0px 0px 0px 0px;
+	width:135px;
+}
+.areasblock {
+	margin:0px 0px 10px 30px;
+	padding:6px 0px 0px 0px;
+}
+.areasblock p {
+	margin-left:9px !important;
+	margin-top:0 !important;
+}
+.areasblock p a {
+	color:#476971;
+}
+.areasblock a {
+	color:#000;
+	font-weight:bold;
+}
+.areasblock a:hover {
+	color:#66adbf;
+	text-decoration:underline;
+}
+.areasblock img {
+	margin:10px 0;
+}
+.areasblock img.ctwriter {
+	margin-bottom:3px;
+}
+.areasblock div {
+	font-weight:normal;
+	margin:10px 0px 10px 4px;
+}
+.areasblock .secTitle {
+	font-weight:bold;
+	font-size:14px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin:7px 0 7px 0;
+}
+.areasblock #bpart1, .areasblock #bpart4 {
+	margin-left:0px;
+	float:left;
+	width:150px;
+}
+.areasblock #bpart2, .areasblock #bpart5 {
+	float:left;
+	width:150px;
+}
+.areasblock #bpart3, .areasblock #bpart6 {
+	float:left;
+	width:150px;
+	margin-right:0px;
+}
+.areasblock ul {
+	margin-left:30px !important;
+}
+.areasblock ol {
+	margin-left:30px !important;
+}

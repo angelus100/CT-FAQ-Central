@@ -1,0 +1,431 @@
+/* STYLESHEET FOR CITY TECH - DEPARTMENT SECOND LEVEL PAGES- content areas*/
+/* LINKS */
+a:link {
+	font-family:Arial, Helvetica, sans-serif;
+	text-decoration:none;
+}
+a:visited {
+	text-decoration:none;
+}
+a:hover {
+	text-decoration:none;
+	outline:none;
+}
+a:active {
+	outline:none;
+}
+/* END */
+
+
+/* CONTENT */
+#contentLeftCol {
+	background-color:#fff;
+	height:auto;
+	clear:left;
+	padding-bottom:25px;
+	width:535px;
+	padding-right:20px;
+	padding-top:10px;
+}
+#contentLeftCol_2Column {
+	background-color:#fff;
+	height:auto;
+	clear:left;
+	padding-bottom:25px;
+	width:780px;
+	padding-right:20px;
+	padding-top:10px;
+}
+#contentFacultyList {
+	height:auto;
+	clear:left;
+	width:535px;
+	padding-right:20px;
+	padding-top:10px;
+}
+#contentWhatsNew {
+	clear:left;
+	background-color:#fff;
+	height:580px;
+	padding-bottom:10px;
+}
+#contentComputerSciences {
+	clear:left;
+	background-color:#fff;
+	height:470px;
+	padding-bottom:10px;
+}
+#contentAcademicOpportunities {
+	clear:left;
+	background-color:#fff;
+	height:510px;
+	padding-bottom:10px;
+}
+#contentHSAprog {
+	clear:left;
+	background-color:#fff;
+	height:670px;
+	padding-bottom:10px;
+}
+#contentHSAfaculty {
+	clear:left;
+	background-color:#fff;
+	height:810px;
+	padding-bottom:10px;
+}
+#contentHSAlinks {
+	clear:left;
+	background-color:#fff;
+	height:290px;
+	padding-bottom:10px;
+}
+#contentHSAalumni {
+	clear:left;
+	background-color:#fff;
+	height:1500px;
+	padding-bottom:10px;
+}
+#contentHSA3col {
+	clear:left;
+	background-color:#fff;
+	height:480px;
+	padding-bottom:0px;
+}
+/* END */
+
+
+/* MAIN CONTENT */
+#contentColumns {
+	clear:both;
+	float:left;
+	width:800px;
+	height:auto;
+	background-color:#FFF;
+	margin-top:0px;
+}
+#contentColumns_a {
+	float:left;
+	background-color:#FFF;
+	width:auto;
+	list-style-position:inside;
+}
+#contentColumns_b {
+	float:left;
+	width:265px;
+	background-color:#FFFFFF;
+	height:auto;
+}
+#contentColumns_matha {
+	clear:both;
+	float:left;
+	background-color:#FFF;
+	width:250px;
+}
+#contentColumns_mathb {
+	float:left;
+	width:240px;
+	background-color:#FFFFFF;
+	height:auto;
+	margin-top:0px;
+	margin-left:20px;
+}
+#contentColumns p, #contentColumns_a p, #contentColumns_b p {
+	font-style:normal;
+	font-weight:normal;
+	line-height:1.6;
+	margin-left:30px;
+	margin-top:10px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	letter-spacing:0.4px;
+	color:#414042;
+}
+#contentColumns ul, #contentColumns ol {
+	font-style:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-left:50px;
+	margin-top:10px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	letter-spacing:0.7px;
+	color:#414042;
+	padding:0;
+}
+#contentColumns li {
+	margin-bottom: 6px;
+}
+#contentColumns h2, #contentColumns_a h2, #contentColumns_b h2 {
+	color:#678991;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:20px;
+	margin-left:30px;
+	font-weight:bold;
+}
+#contentColumns h3, #contentColumns_a h3, #contentColumns_b h3 {
+	font-style:normal;
+	line-height:1.5;
+	margin-left:30px;
+	margin-bottom:0px;
+	font-size:12px;
+}
+#contentColumnsSingle h3 {
+	font-style:normal;
+	font-size:14px;
+	line-height:1.5;
+	margin-left:30px;
+	margin-bottom:6px;
+}
+#contentColumnsSingle .uldiv {
+	margin-left:5px;
+}
+#contentColumns a {
+	color:#678991;
+}
+#contentColumnsSingle a {
+	color:#678991;
+}
+#contentColumns a:hover {
+	color:#66ADBF;
+}
+#contentColumnsSingle a:hover {
+	color:#66ADBF;
+}
+#contentColumnsSingle {
+	clear:both;
+	float:left;
+	padding-top:10px;
+	width:780px;
+	padding-right:20px;
+}
+#contentColumnsSingle h2 {
+	color:#678991;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:20px;
+	margin-left:30px;
+	width:500px;
+}
+#contentColumnsSingle .facpic {
+	float:left;
+	margin:10px 10px 20px 30px;
+}
+#contentColumnsSingle .factext {
+	float:left;
+	font-style:normal;
+	font-weight:normal;
+	line-height:1.5;
+	width:500px;
+	margin:7px 5px 20px 0px;
+}
+#contentColumnsSingle .factext .facname {
+	font-style:normal;
+	font-weight:bold;
+	font-size:16px;
+	line-height:1.5;
+}
+#contentColumnsSingle .factext .facContact {
+	font-style:normal;
+	font-weight:bold;
+	font-size:12px;
+	vertical-align:bottom;
+}
+/* END */
+
+
+/* SUB-CONTENT */
+.dashedHR {
+	border-top:1px solid #678991;
+	margin-right:1px;
+	height:1px;
+	margin-bottom:0px;
+	margin-top:0px;
+}
+.dashedHR2 {
+	border-top:1px solid #678991;
+	height:1px;
+	margin-bottom:0px;
+	margin-top:6px;
+	margin-left:30px;
+}
+.dashedHR hr {
+	display:none;
+}
+#contentRightCol {
+	float:right;
+	font-style:normal;
+	font-weight:bold;
+	padding-left:5px;
+	padding-right:30px;
+	padding-top:25px;
+	padding-bottom:20px;	
+	width:190px;
+	font-size:11px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+#contentRightCol2 {
+	float:right;
+	font-style:normal;
+	font-weight:normal;
+	padding-left:5px;
+	padding-right:30px;
+	padding-top:25px;
+	width:190px;
+	padding-bottom:25px;
+}
+#contentRightCol p {
+	color:#000;
+	margin:7px 2px;
+	font-weight:normal;
+}
+#contentRightCol h3 {
+	color:#000;
+	margin:0px 2px 5px 2px;
+	font-size:12px;
+}
+#contentRightCol li {
+	color:#30555e;
+	margin:10px 13px 5px 15px;
+	list-style-position:outside;
+}
+#contentRightCol .subText1 {
+	color:#30454e;
+}
+#contentRightCol .subText2 {
+	color:#30554e;
+}
+#contentRightCol a {
+	color:#30555e;
+}
+#contentRightCol .course_info {
+	color:#30555e;
+	width:180px;
+	margin:0px;
+}
+#contentRightCol .prog_course {
+	color:#30555e;
+	width:150px;
+	margin:3px 2px 0px 2px;
+	float:left;
+}
+#contentRightCol .prog_name {
+	color:#30555e;
+	width:175px;
+	margin:0px 2px 7px 2px;
+	font-weight:normal;
+}
+#contentRightCol .prog_name a {
+	color:#30555e;
+}
+#contentRightCol .prog_name a:hover {
+	color:#66ADBF;
+}
+#contentRightCol .prog_cred {
+	color:#30555e;
+	width:20px;
+	margin:3px 2px 0px 2px;
+	float:right;
+	text-align:right;
+	font-weight:normal;
+}
+/* END */
+
+
+/* OVERALL */
+img.imgpadding {
+	padding-bottom:8px;
+	margin-left:8px;
+}
+#clickinfo {
+	font-size:11px;
+	color:#5d9eaf;
+}
+#resourses {
+	list-style-type:none;
+	font-size:12px;
+	margin-top:7px;
+	line-height:23px;
+	font-weight:200;
+	margin-bottom:25px;
+}
+h4 {
+	color:#30555E;
+	font-size:13px;
+	margin-bottom:15px;
+	margin-top:10px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin-left:30px;
+}
+#careerlist {
+	list-style-type:none;
+	font-size:12px;
+	font-family:Arial, Helvetica, sans-serif;
+	line-height:20px;
+}
+#contentLeftCol .scholarships {
+	font-size:11px;
+	list-style-position:outside;
+	font-family:Arial, Helvetica, sans-serif;
+	letter-spacing:1px;
+	line-height:18px;
+	color:#333;
+	margin-top:5px;
+}
+.alumni_list {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	list-style-type:none;
+	margin-left:-10px;
+	line-height:15px;
+}
+.alumni_list li {
+	line-height:25px;
+}
+.degree_list {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	line-height:25px;
+	font-weight:bold;
+	color:#30555E;
+	list-style-type:none;
+	letter-spacing:1px;
+	margin-bottom:-10px;
+	margin-top:-10px;
+}
+.style_list {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	line-height:22px;
+	font-weight:normal;
+	color:#333333;
+	list-style-type:disc;
+	letter-spacing:1px;
+	margin-left:40px;
+	margin-bottom:10px;
+	margin-top:10px;
+}
+.style_list2 {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	line-height:22px;
+	font-weight:normal;
+	color:#333333;
+	list-style-type:circle;
+	letter-spacing:1px;
+	margin-left:90px;
+	margin-bottom:5px;
+	margin-top:5px;
+}
+#backpage {
+	width:auto;
+	float:right;
+}
+#backpage a {
+	font-size:10px;
+	color:#15618C;
+	letter-spacing:1px;
+	margin-left:10px;
+	font-style:italic;
+	font-weight:lighter;
+	text-decoration:none;
+}
+/* END */
